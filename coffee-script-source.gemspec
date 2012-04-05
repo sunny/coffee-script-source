@@ -1,5 +1,5 @@
 Gem::Specification.new do |s|
-  s.name      = 'coffee-script'
+  s.name      = 'coffee-script-source'
   s.version   = '1.2.1.pre'
   s.date      = '2010-04-05'
 
