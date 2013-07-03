@@ -18,6 +18,7 @@ Gem::Specification.new do |s|
     'lib/coffee_script/source.rb'
   ]
 
-  s.authors           = ['Jeremy Ashkenas']
-  s.email             = 'jashkenas@gmail.com'
+  s.authors = ['Jeremy Ashkenas']
+  s.email   = 'jashkenas@gmail.com'
+  s.license = "MIT"
 end
